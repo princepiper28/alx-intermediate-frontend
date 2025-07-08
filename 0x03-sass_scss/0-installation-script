@@ -1,0 +1,9 @@
+# Steps to install SASS locally
+
+1. Open terminal and navigate to the project directory:
+   C:\princepiper\alx-intermediate-frontend\0x03-sass_scss
+
+2. Install sass locally using npm:
+   npm install sass@1.70.0
+
+3. A package.json file and node_modules folder are generated
